@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=YouTube Subtitles Downloader
+GenericName=Subtitle Downloader
+Comment=Download official and auto-generated YouTube subtitles as SRT
+Exec=youtube-subtitles-downloader
+Icon=youtube-subtitles-downloader
+Terminal=false
+Categories=AudioVideo;Utility;
+Keywords=youtube;subtitles;srt;captions;download;
+StartupNotify=true
+StartupWMClass=Youtube Subtitles Downloader
